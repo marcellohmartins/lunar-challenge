@@ -39,8 +39,8 @@ Before running the application, make sure you have the following components inst
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/lunar-rocket-launcher.git
-cd lunar-rocket-launcher
+git clone https://github.com/marcellohmartins/lunar-challenge
+cd lunar-challenge
 ```
 
 2. Install requirements:
